@@ -1,0 +1,15 @@
+{
+    "author": "Kardain":,
+    "description": "Tracks the hidden hourly Destiny 2 Distortion planet rotation loop with a live relative countdown timer.",
+    "disabled": false,
+    "end_user_data_statement": "This cog stores a single Discord Text Channel ID configuration variable for automated postings. It does not track personal user data.",
+    "hidden": false,
+    "install_msg": "Distortion Tracker loaded! Configure automated postings using `[prefix]distortion set`.",
+    "name": "DistortionTracker",
+    "required_cogs": {},
+    "requirements": [],
+    "short": "Tracks the hidden Destiny 2 Distortion loop.",
+    "tags": ["destiny2", "tracker", "automation"],
+    "type": "COG",
+    "min_bot_version": "3.5.0"
+}
