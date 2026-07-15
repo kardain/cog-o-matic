@@ -21,7 +21,7 @@ Open your Discord client and run the following commands in a channel your bot ca
 
 1. **Add the repository:**
    ```text
-   [p]repo add distortion-tracker https://github.com/USER/REPO
+   [p]repo add distortion-tracker https://github.com/kardain/cog-o-matic
    ```
 
 2. **Install the cog package:**
