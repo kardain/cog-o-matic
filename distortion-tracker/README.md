@@ -58,7 +58,7 @@ The admin commands below require **Administrator** or **Manage Channels** permis
 
 * **`[p]distortion set [channel]`**
   Registers a target text channel for the automated hourly rotation alerts. If no channel is specified, defaults to the channel the command was run.  
-  > Note: This cog has been running for a little over two weeks in a test server as of (date) while I picked at it in between my work schedule. It's rotation schedule has remained in sync with both in-game display and other third party community tools.  
+  > Note: This cog has been running for a little over two weeks in a test server as of 18 July 2026 while I picked at it in between my work schedule. It's rotation schedule has remained in sync with both in-game display and other third party community tools.  
 
 * **`[p]distortion clear`**
   Deregisters the configured channel and stops automated posting.
@@ -127,3 +127,9 @@ Most servers use this cog in one of two ways:
 ### Distortion Schedule Embed  
 
 ![Sample Embed](sample_embed_schedule.png)  
+
+---
+
+> Note: The links provided in the embeds are pages I found to be convenient. I am in no way affiliated with the sites recommened.
+>
+> Generative AI used for debugging only.
