@@ -122,4 +122,8 @@ Most servers use this cog in one of two ways:
 
 ### Active Distortion Embed (Short version)
 
-![Sample Embed](sample_embed_short.png)
+![Sample Embed](sample_embed_short.png)  
+
+### Distortion Schedule Embed  
+
+![Sample Embed](sample_embed_schedule.png)  
