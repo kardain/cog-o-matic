@@ -131,6 +131,6 @@ Most servers use this cog in one of two ways:
 
 ---
 
-> Note: The links provided in the embeds are pages I found to be convenient. I am in no way affiliated with the sites recommened.
+> Note: The links provided in the embeds are pages I found to be convenient. I am in no way affiliated with the sites recommended.
 >
 > Generative AI used for debugging only.
