@@ -55,10 +55,11 @@ The admin commands below require **Administrator** or **Manage Channels** permis
 
 * **`[p]distortion`**
   Displays the help and module management menu.
+  > Note: This is both an admin and user command.  
 
 * **`[p]distortion set [channel]`**
   Registers a target text channel for the automated hourly rotation alerts. If no channel is specified, defaults to the channel the command was run.  
-  > Note: This cog has been running for a little over two weeks in a test server as of 18 July 2026 while I picked at it in between my work schedule. It's rotation schedule has remained in sync with both in-game display and other third party community tools.  
+  > Note: This cog has been running for a little over three weeks in a test server as of 24 July 2026 while I picked at it in between my work schedule. Its rotation schedule has remained in sync with both in-game display and other third party community tools. The rotation has survived several Docker container restarts and a power outage.  
 
 * **`[p]distortion clear`**
   Deregisters the configured channel and stops automated posting.
