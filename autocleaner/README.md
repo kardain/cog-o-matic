@@ -37,7 +37,7 @@ If you're using the logging feature, the bot also needs `Send Messages` and `Emb
 ### Adding the Cog to Your Bot
 
 ```text
-[p]repo add cogomatic https://github.com/USER/REPO
+[p]repo add cogomatic https://github.com/kardain/cog-o-matic
 [p]cog install cogomatic autocleaner
 [p]load autocleaner
 ```
