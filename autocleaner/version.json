@@ -1,0 +1,5 @@
+{
+    "1.0.0": {
+        "0": "Initial release with automatic message cleanup, thread support, and logging"
+    }
+}

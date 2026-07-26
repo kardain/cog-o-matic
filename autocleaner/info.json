@@ -1,0 +1,14 @@
+{
+    "author": ["kardain"],
+    "install_msg": "AutoCleaner cog loaded! Use `[p]autoclean` to manage automatic message cleanup.",
+    "name": "AutoCleaner",
+    "short": "Automatic message cleanup with thread support",
+    "description": "Automatically deletes messages older than X days while preserving pinned messages, thread OPs, and most recent messages.",
+	"end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+    "tags": ["cleanup", "cleaner", "clean", "delete", "deleter", "autodelete", "autodeleter"],
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "disabled": false,
+    "requirements": [],
+    "type": "COG"
+}
