@@ -14,6 +14,10 @@ Automatic message cleanup for channels and threads. Set a retention period per c
 * **Manual Trigger** - Run a cleanup on demand without waiting for the schedule.
 
 > **Note on scheduling:** the daily cleanup time is interpreted using the timezone of the machine/container the bot is running on (its `TZ` environment variable, defaulting to UTC if unset). Since one bot process serves every server it's in, this timezone is **shared across all guilds**. It isn't configurable per server, even though each server's actual cleanup *time* (`HH:MM`) is.
+  
+## Recommended Usage  
+
+Particularly useful for high-frequency channels where data retention is not important. Examples include RSS fetcher channels, "Commands" only style channels, "Welcome" channels, and similar.
 
 ---
 
