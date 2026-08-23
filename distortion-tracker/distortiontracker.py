@@ -413,7 +413,7 @@ class DistortionTracker(commands.Cog):
             if not channel_id or (last_posted and current_hour_key <= last_posted):
                 continue
 
-            channel = guild.get_channel(channel_id)
+            channel = guild.get_channel(channel_id) or guild.get_thread(channel_id)
             if not channel:
                 continue
 
