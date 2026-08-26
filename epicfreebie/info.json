@@ -3,6 +3,7 @@
     "install_msg": "Thanks for installing the Epic Games free games cog.",
     "name": "EpicFreebies",
     "disabled": false,
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
     "short": "Queries the Epic API for the free game(s) of the week.",
     "description": "Queries the Epic API for the free game(s) of the week.",
     "tags": [
