@@ -27,6 +27,7 @@ Red-DiscordBot needs the following permissions in any channel in which this cog 
 * `View Channel`
 * `Send Messages`
 * `Embed Links`
+* `Manage Messages and Threads`
 
 ### Adding the Cog to Your Bot
 
