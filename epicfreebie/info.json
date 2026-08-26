@@ -1,0 +1,20 @@
+{
+    "author": ["Kardain"],
+    "install_msg": "Thanks for installing the Epic Games free games cog.",
+    "name": "EpicFreebies",
+    "disabled": false,
+    "short": "Queries the Epic API for the free game(s) of the week.",
+    "description": "Queries the Epic API for the free game(s) of the week.",
+    "tags": [
+        "free",
+        "games",
+        "hoarder",
+        "backlog",
+        "utility"
+    ],
+    "min_bot_version": "3.5.0",
+    "min_python_version": [3, 11, 0],
+    "required_cogs": {},
+    "requirements": [],
+    "type": "COG"
+}
